@@ -1,0 +1,1 @@
+# sentinel-rule-vscode-extension
